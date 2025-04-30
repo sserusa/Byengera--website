@@ -1,0 +1,35 @@
+<!DOCTYPE html><html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Byengera Medical Centre</title>
+  <script src="https://cdn.tailwindcss.com"></script>
+</head>
+<body class="bg-gray-50 text-gray-800 font-sans">
+  <!-- Header -->
+  <header class="bg-blue-700 text-white p-6 shadow">
+    <h1 class="text-3xl font-bold text-center">Byengera Medical Centre</h1>
+    <p class="text-center mt-2">Quality Healthcare for Every Family</p>
+  </header>  <!-- About Section -->  <section class="p-6 max-w-4xl mx-auto">
+    <h2 class="text-2xl font-semibold mb-4">About Us</h2>
+    <p>Byengera Medical Centre is committed to delivering compassionate and professional healthcare to the community. Our experienced team ensures patients receive the highest level of care.</p>
+  </section>  <!-- Services -->  <section class="bg-white p-6 max-w-4xl mx-auto shadow mt-4 rounded">
+    <h2 class="text-2xl font-semibold mb-4">Our Services</h2>
+    <ul class="list-disc pl-5 space-y-2">
+      <li>General Medical Consultation</li>
+      <li>Maternity Services</li>
+      <li>Laboratory Testing</li>
+      <li>Pharmacy</li>
+      <li>Immunizations</li>
+    </ul>
+  </section>  <!-- Contact -->  <section class="p-6 max-w-4xl mx-auto mt-4">
+    <h2 class="text-2xl font-semibold mb-4">Contact Us</h2>
+    <p><strong>Address:</strong> Byengera, Uganda</p>
+    <p><strong>Phone:</strong> +256 700 000000</p>
+    <p><strong>Email:</strong> info@byengeramedical.ug</p>
+    <p><strong>Working Hours:</strong> Mon–Sat: 8am – 6pm</p>
+  </section>  <!-- Footer -->  <footer class="bg-blue-700 text-white text-center p-4 mt-6">
+    <p>&copy; 2025 Byengera Medical Centre. All rights reserved.</p>
+  </footer>
+</body>
+</html>
